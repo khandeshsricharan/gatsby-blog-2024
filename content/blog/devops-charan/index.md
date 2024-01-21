@@ -5,3 +5,5 @@ description: "Charan Devops Rockstar"
 ---
 
 This is my new blog post to check the Azure devops deployment
+
+I will be sharing my learnings and experiments of my devops journey here
